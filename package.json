@@ -1,0 +1,26 @@
+{
+    "author": "Octal Tech",
+    "dependencies": {},
+    "keywords": [],
+    "name": "3rd-watch",
+    "pebble": {
+        "displayName": "Third Watch",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "448ba12d-e918-40f8-97d7-b4699f01158a",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
